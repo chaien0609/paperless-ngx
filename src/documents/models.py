@@ -522,6 +522,7 @@ class SavedViewFilterRule(models.Model):
         (40, _("does not have custom field in")),
         (41, _("does not have custom field")),
         (42, _("custom fields query")),
+        (43, _("mime type is")),
     ]
 
     saved_view = models.ForeignKey(
