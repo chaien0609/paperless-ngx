@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: paperless-ngx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-01-27 08:19-0800\n"
-"PO-Revision-Date: 2025-01-27 16:20\n"
+"PO-Revision-Date: 2025-02-01 00:32\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -31,7 +31,7 @@ msgstr "Expresión de consulta de campo personalizado no válida"
 
 #: documents/filters.py:373
 msgid "Invalid expression list. Must be nonempty."
-msgstr "Lista de expresiones no válida. Debe ser no vacía."
+msgstr "Lista de expresiones no válida. No debe estar vacía."
 
 #: documents/filters.py:394
 msgid "Invalid logical operator {op!r}"
@@ -55,7 +55,7 @@ msgstr "Profundidad máxima de nidificación superada."
 
 #: documents/filters.py:785
 msgid "Custom field not found"
-msgstr ""
+msgstr "Campo personalizado no encontrado"
 
 #: documents/models.py:41 documents/models.py:801
 msgid "owner"
@@ -918,7 +918,7 @@ msgstr "utilizar parámetros"
 
 #: documents/models.py:1214
 msgid "send as JSON"
-msgstr ""
+msgstr "enviar como JSON"
 
 #: documents/models.py:1218
 msgid "webhook parameters"
@@ -926,7 +926,7 @@ msgstr "parámetros del webhook"
 
 #: documents/models.py:1221
 msgid "The parameters to send with the webhook URL if body not used."
-msgstr ""
+msgstr "Los parámetros a enviar con la URL del webhook si no se utiliza el cuerpo."
 
 #: documents/models.py:1225
 msgid "webhook body"
@@ -934,7 +934,7 @@ msgstr "cuerpo del webhook"
 
 #: documents/models.py:1228
 msgid "The body to send with the webhook URL if parameters not used."
-msgstr ""
+msgstr "El cuerpo a enviar con la URL del webhook si no se utilizan parámetros."
 
 #: documents/models.py:1232
 msgid "webhook headers"
@@ -942,7 +942,7 @@ msgstr "cabeceras webhook"
 
 #: documents/models.py:1235
 msgid "The headers to send with the webhook URL."
-msgstr ""
+msgstr "Las cabeceras a enviar con la URL del webhook."
 
 #: documents/models.py:1240
 msgid "include document in webhook"
@@ -962,7 +962,7 @@ msgstr "E-mail"
 
 #: documents/models.py:1263
 msgid "Webhook"
-msgstr ""
+msgstr "Webhook"
 
 #: documents/models.py:1267
 msgid "Workflow Action Type"
@@ -1310,7 +1310,7 @@ msgstr "Autenticación de dos factores Paperless-ngx"
 
 #: documents/templates/mfa/authenticate.html:12
 msgid "Your account is protected by two-factor authentication. Please enter an authenticator code:"
-msgstr ""
+msgstr "Su cuenta está protegida por la autenticación de dos factores. Por favor, introduzca un código de autenticación:"
 
 #: documents/templates/mfa/authenticate.html:17
 msgid "Code"
@@ -1725,7 +1725,7 @@ msgstr "OAuth de Gmail"
 
 #: paperless_mail/models.py:21
 msgid "Outlook OAuth"
-msgstr ""
+msgstr "Outlook OAuth"
 
 #: paperless_mail/models.py:25
 msgid "IMAP server"

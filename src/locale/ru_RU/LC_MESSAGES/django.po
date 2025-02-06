@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: paperless-ngx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-01-27 08:19-0800\n"
-"PO-Revision-Date: 2025-01-27 16:20\n"
+"PO-Revision-Date: 2025-02-05 12:12\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -47,7 +47,7 @@ msgstr "{name!r} не является допустимым пользовате
 
 #: documents/filters.py:510
 msgid "{data_type} does not support query expr {expr!r}."
-msgstr "{data_type} не поддерживает запрос expr {expr!r}."
+msgstr "{data_type} не поддерживает запрос {expr!r}."
 
 #: documents/filters.py:618
 msgid "Maximum nesting depth exceeded."
@@ -486,7 +486,7 @@ msgstr "больше похожих"
 
 #: documents/models.py:504
 msgid "has tags in"
-msgstr "имеет этикетки в"
+msgstr "имеет теги в"
 
 #: documents/models.py:505
 msgid "ASN greater than"
@@ -542,7 +542,7 @@ msgstr "не имеет владельца в"
 
 #: documents/models.py:518
 msgid "has custom field value"
-msgstr "имеет спецзначение поля"
+msgstr "имеет значение пользовательского поля"
 
 #: documents/models.py:519
 msgid "is shared by me"
@@ -610,7 +610,7 @@ msgstr "Имя файла, для которого была запущена з�
 
 #: documents/models.py:671
 msgid "Task Name"
-msgstr "Название задачи"
+msgstr "Название Задачи"
 
 #: documents/models.py:672
 msgid "Name of the Task which was run"
@@ -746,11 +746,11 @@ msgstr ""
 
 #: documents/models.py:856
 msgid "custom field"
-msgstr "спецполе"
+msgstr "Пользовательское поле"
 
 #: documents/models.py:857
 msgid "custom fields"
-msgstr "спецполя"
+msgstr "Пользовательские поля"
 
 #: documents/models.py:954
 msgid "custom field instance"

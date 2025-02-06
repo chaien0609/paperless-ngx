@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: paperless-ngx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-01-27 08:19-0800\n"
-"PO-Revision-Date: 2025-01-27 16:20\n"
+"PO-Revision-Date: 2025-02-02 00:32\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -55,7 +55,7 @@ msgstr "超出最大嵌套深度。"
 
 #: documents/filters.py:785
 msgid "Custom field not found"
-msgstr ""
+msgstr "Custom field not found"
 
 #: documents/models.py:41 documents/models.py:801
 msgid "owner"

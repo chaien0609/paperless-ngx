@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: paperless-ngx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-01-27 08:19-0800\n"
-"PO-Revision-Date: 2025-01-27 16:20\n"
+"PO-Revision-Date: 2025-01-30 12:12\n"
 "Last-Translator: \n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
@@ -55,7 +55,7 @@ msgstr "Przekroczono maksymalną głębokość zagnieżdżenia."
 
 #: documents/filters.py:785
 msgid "Custom field not found"
-msgstr ""
+msgstr "Pole dodatkowe nie zostało znalezione"
 
 #: documents/models.py:41 documents/models.py:801
 msgid "owner"
@@ -774,7 +774,7 @@ msgstr "Dokument zaktualizowano"
 
 #: documents/models.py:1023
 msgid "Scheduled"
-msgstr ""
+msgstr "Zaplanowane"
 
 #: documents/models.py:1026
 msgid "Consume Folder"
@@ -790,11 +790,11 @@ msgstr "Pobieranie E-mail"
 
 #: documents/models.py:1033
 msgid "Modified"
-msgstr ""
+msgstr "Zmodyfikowano"
 
 #: documents/models.py:1034
 msgid "Custom Field"
-msgstr ""
+msgstr "Pole dodatkowe"
 
 #: documents/models.py:1037
 msgid "Workflow Trigger Type"
@@ -918,7 +918,7 @@ msgstr "użyj parametrów"
 
 #: documents/models.py:1214
 msgid "send as JSON"
-msgstr ""
+msgstr "wyślij jako JSON"
 
 #: documents/models.py:1218
 msgid "webhook parameters"
@@ -1086,11 +1086,11 @@ msgstr "usuń wszystkie pola dodatkowe"
 
 #: documents/models.py:1472
 msgid "email"
-msgstr ""
+msgstr "adres e-mail"
 
 #: documents/models.py:1481
 msgid "webhook"
-msgstr ""
+msgstr "webhook"
 
 #: documents/models.py:1485
 msgid "workflow action"
@@ -1118,7 +1118,7 @@ msgstr "włączony"
 
 #: documents/models.py:1522
 msgid "workflow"
-msgstr ""
+msgstr "procesy"
 
 #: documents/models.py:1526
 msgid "workflow trigger type"

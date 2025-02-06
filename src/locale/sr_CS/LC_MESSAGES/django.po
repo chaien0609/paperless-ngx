@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: paperless-ngx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-01-27 08:19-0800\n"
-"PO-Revision-Date: 2025-01-27 16:20\n"
+"PO-Revision-Date: 2025-02-01 12:10\n"
 "Last-Translator: \n"
 "Language-Team: Serbian (Latin)\n"
 "Language: sr_CS\n"
@@ -55,7 +55,7 @@ msgstr "Premašena je maksimalni nesting depth."
 
 #: documents/filters.py:785
 msgid "Custom field not found"
-msgstr ""
+msgstr "Nije pronađeno prilagođeno polje"
 
 #: documents/models.py:41 documents/models.py:801
 msgid "owner"
@@ -918,7 +918,7 @@ msgstr "koristi parametre"
 
 #: documents/models.py:1214
 msgid "send as JSON"
-msgstr ""
+msgstr "pošalji kao JSON"
 
 #: documents/models.py:1218
 msgid "webhook parameters"
